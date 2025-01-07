@@ -30,3 +30,6 @@ This program allows users to register, log in, and book flight tickets to variou
 
 ## Conclusion
 This flight booking system provides a comprehensive solution for managing flight reservations at Zakhaev International Airport. It combines user account management with real-time ticketing capabilities while offering flexibility in travel options and additional services.
+
+## Note
+this syntax has 80.000+ lines and using an indonesian language, so be careful to use this syntax. also, this syntax is free to use, enjoy
